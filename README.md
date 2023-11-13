@@ -1,6 +1,7 @@
-# Performance Enhancing Modpack
-## Last Updated November 13, 2023
-Note: These mods are designed to help with minecraft's performance, especially on old or slow computers. Enjoy!
+# Performance Enhancing Modpack 
+#### Last Updated November 13, 2023
+-----
+Note: These mods are designed to help with Minecraft's performance, especially on old or slow computers. Enjoy!
 Please also note that these mods may not ALL be compatible with each other.
 
 | Mod Name   | Description   | Link   |
